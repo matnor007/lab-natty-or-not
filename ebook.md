@@ -1,4 +1,3 @@
-```markdown
 # 📘 **EBOOK: Principais Erros que Levam à Sonegação Involuntária e Como Evitá-los**  
 
 ## 📌 **Introdução**  
@@ -95,4 +94,3 @@ A sonegação involuntária acontece quando há falhas no cumprimento das obriga
 
 ## 🎯 **Conclusão**  
 A sonegação involuntária pode trazer **graves consequências financeiras e jurídicas**. Evitar esses erros exige **boas práticas de compliance tributário**, o uso de **tecnologia fiscal** e a atualização constante da equipe.  
-```

@@ -1,5 +1,4 @@
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Manual Fiscal ;)
 
 ## 📒 Descrição
 Um manual mostrando boas práticas fiscais de como não sonegar imposto na área tributária/contábil/fiscal.
@@ -12,4 +11,3 @@ Foi recolhido informações legislativas e feita uma tratagem de dados e estiliz
 
 ## 🚀 Resultados
 https://github.com/matnor007/lab-natty-or-not/blob/main/ebook.md
-```
